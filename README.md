@@ -2,9 +2,9 @@
 
 Existing features:
 
-python toyFrontEnd.py --testing
-python toyFrontEnd.py --continue
-python toyFrontEnd.py --reset
+python FrontEnd.py --testing
+python FrontEnd.py --continue
+python FrontEnd.py --reset
 
 Testing:
 - Plots output_test.csv file in the interface. 
